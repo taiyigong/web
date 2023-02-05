@@ -39,7 +39,7 @@ links = [
 	#{title = 'Topics', url = 'tags'},
 	#{title = 'Github', url = 'https://github.com/marcodpt/zolastrap'},
 ]
-email = "610101apple@mail.com"
+email = "610101apple@gmail.com"
 #icons = [
 #  {title = 'Facebook', icon = 'facebook-f', url = 'https://www.facebook.com'},
 #  {title = 'Instagram', icon = 'instagram', url = 'https://www.instagram.com'},
