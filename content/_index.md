@@ -32,10 +32,10 @@ extra:
          title: fourth
          url: about
        - img: img/5.jpg
-         title: first
+         title: 提前完工～幕後辛苦的工作團隊
          url: about
        - img: img/6.jpg
-         title: second
+         title: 提前完工～幕後辛苦的工作團隊
          url: about
        - img: img/7.jpg
          title: 提前完工～幕後辛苦的工作團隊
