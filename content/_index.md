@@ -11,10 +11,4 @@ extra:
       type: vertical
       title: 工程實績
       row: 4
-  - - section: articles
-      size: 4
-      start: 4
-      end: 14
-      type: carousel
-      title: library
 ---
