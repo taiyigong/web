@@ -38,12 +38,12 @@ extra:
          title: second
          url: about
        - img: img/7.jpg
-         title: third
+         title: 提前完工～幕後辛苦的工作團隊
          url: about
        - img: img/8.jpg
-         title: fourth
+         title: 提前完工～幕後辛苦的工作團隊
          url: about
        - img: img/9.jpg
-         title: fourth
+         title: 提前完工～幕後辛苦的工作團隊
          url: about
 ---
