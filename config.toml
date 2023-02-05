@@ -31,7 +31,7 @@ search = 'Search'
 tag = 'Posts by Topic'
 tags = 'Posts by Topics'
 
-links = [apple
+links = [
 	{title = '工程實績', url = 'articles'},
   {title = '聯絡我們', url = 'authors'},
 	{title = '關於台一', url = 'about'},
@@ -40,12 +40,12 @@ links = [apple
 	#{title = 'Github', url = 'https://github.com/marcodpt/zolastrap'},
 ]
 email = "610101apple@mail.com"
-icons = [
-  {title = 'Facebook', icon = 'facebook-f', url = 'https://www.facebook.com'},
-  {title = 'Instagram', icon = 'instagram', url = 'https://www.instagram.com'},
-  {title = 'Twitter', icon = 'twitter', url = 'https://twitter.com'},
-  {title = 'YouTube', icon = 'youtube', url = 'https://www.youtube.com'}
-]
+#icons = [
+#  {title = 'Facebook', icon = 'facebook-f', url = 'https://www.facebook.com'},
+#  {title = 'Instagram', icon = 'instagram', url = 'https://www.instagram.com'},
+#  {title = 'Twitter', icon = 'twitter', url = 'https://twitter.com'},
+#  {title = 'YouTube', icon = 'youtube', url = 'https://www.youtube.com'}
+#]
 
 utterances = ""
 utterances_label = "Comments"
