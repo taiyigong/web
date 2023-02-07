@@ -19,18 +19,6 @@ extra:
       title: media
     - size: 6
       items: 
-       - img: img/1.jpg
-         title: first
-         url: about
-       - img: img/2.jpg
-         title: second
-         url: about
-       - img: img/3.jpg
-         title: third
-         url: about
-       - img: img/4.jpg
-         title: fourth
-         url: about
        - img: img/5.jpg
          title: 提前完工～幕後辛苦的工作團隊
          url: about
