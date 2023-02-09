@@ -1,4 +1,4 @@
-base_url = "https://tayi.netlify.app/"
+base_url = "https://taiyi.netlify.app/"
 
 default_language = "en"
 compile_sass = true
