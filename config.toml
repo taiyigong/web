@@ -32,10 +32,10 @@ tag = 'Posts by Topic'
 tags = 'Posts by Topics'
 
 links = [
-	{title = '工程實績', url = 'articles'},
+	{title = '服務', url = 'articles'},
   {title = '聯絡我們', url = 'authors'},
 	{title = '關於台一', url = 'about'},
-  #{title = '實績案例', url = 'about'},
+  {title = 'Media', url = 'media'},
 	#{title = 'Topics', url = 'tags'},
 	#{title = 'Github', url = 'https://github.com/marcodpt/zolastrap'},
 ]
